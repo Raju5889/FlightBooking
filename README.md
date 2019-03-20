@@ -1,3 +1,3 @@
 # FlightBooking
 
-This is Demo MVC Flight Booking ASP.net Application.
+This is MVC Flight Booking Demo .net Application.
